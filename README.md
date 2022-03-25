@@ -8,10 +8,10 @@
 
 ## I'm a Student, musician and Developer!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators & companies
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2022 Goals: Learn more about js & web3
 - ⚡ Fun fact: I love to sing and play football / flute
 
 ### Connect with me:
@@ -106,10 +106,10 @@
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/Lost_Boy_404
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/_lahiru__dilsh/
+[linkedin]: https://www.linkedin.com/in/lahiru-dissanayaka-90411221a/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
