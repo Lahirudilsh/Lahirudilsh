@@ -59,28 +59,12 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🔴 DevOps.js Conference 2022 LIVE](https://www.youtube.com/watch?v=_WS_8Pi1WQs)
-- [EASY Minting Site w/ WHITELISTING &lpar;dapp&rpar; - Entire Process! Launch an Entire NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
-- [UPDATED: Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT With ZERO Coding Knowledge - PFP Generator](https://www.youtube.com/watch?v=quGdJweadFM)
-- [STOP!! Know Before You Buy or Sell! Is Your NFT Rare? - NFT Rarity Calculator](https://www.youtube.com/watch?v=Uz1y4j9gvP8)
-- [ERC-1155 Contracts Explained | Ethereum Blockchain](https://www.youtube.com/watch?v=S-2TuS9ISAg)
-<!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
@@ -100,7 +84,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Lahirudilsh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lahirudilsh&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
